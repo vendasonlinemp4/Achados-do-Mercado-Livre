@@ -259,6 +259,15 @@ button { font: inherit; color: inherit; }
   background: linear-gradient(90deg, transparent, var(--gold));
 }
 
+.manifesto .eyebrow::after,
+.section-head--center .eyebrow::after {
+  content: "";
+  display: inline-block;
+  width: 42px;
+  height: 1px;
+  background: linear-gradient(270deg, transparent, var(--gold));
+}
+
 .hero-title {
   margin: 0 0 26px;
   font-family: var(--font-display);
