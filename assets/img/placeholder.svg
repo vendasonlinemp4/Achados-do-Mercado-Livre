@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f6f2e9"/>
+  <g fill="none" stroke="#c9b283" stroke-width="2">
+    <path d="M200 130 216 184 270 200l-54 16-16 54-16-54-54-16 54-16 16-54Z"/>
+    <circle cx="200" cy="200" r="6"/>
+  </g>
+  <text x="200" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="15"
+        letter-spacing="4" fill="#9b8a68">IMAGEM EM BREVE</text>
+</svg>
